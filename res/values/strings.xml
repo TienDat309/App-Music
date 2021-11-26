@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mp3</string>
+    <string name="ten_bai_hat">Tên bài hát</string>
+    <string name="so_gio">00:00</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
